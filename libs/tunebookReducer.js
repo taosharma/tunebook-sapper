@@ -1,6 +1,6 @@
 import {SET_ORDER, SET_MY_SETTING} from "../constants"
 
-function tunebookReducer(state, action) {
+export default function tunebookReducer(state, action) {
     const {type, payload} = action
 
     switch(type) {
