@@ -17,6 +17,12 @@
 
 # State
 
-- tunebook (array of tunes)
-    - tune (id, tuneId, orderNumber, name, url, type, aliases, mySettings, settings)
-        - settings (id, url, key, abc)
+- tunebook: [{tune}]
+    - tune: id, tuneId, orderNumber, "name", "url", "type", ["aliases"], mySetting, [{settings}]
+        - settings: id, "url", "key", "abc"
+
+# Behaviour
+
+- SET_ORDER
+- SET_MY_SETTING
+
