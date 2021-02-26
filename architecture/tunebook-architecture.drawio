@@ -1,0 +1,109 @@
+<mxfile host="65bd71144e" modified="2021-02-26T14:44:57.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.53.2 Chrome/87.0.4280.141 Electron/11.2.1 Safari/537.36" etag="uXA_xJGvnBGJLDgmBzt1" version="14.2.4" type="embed">
+    <diagram id="iprzN_K_N7C86XhwWzpj" name="Page-1">
+        <mxGraphModel dx="1114" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="359" y="419" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-2" value="id&lt;br&gt;tune_id&lt;br&gt;order_number&lt;br&gt;name&lt;br&gt;type&lt;br&gt;aliases&lt;br&gt;my_setting&lt;br&gt;settings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="349" y="519" width="80" height="121" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="474" y="219" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-4" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="549" y="419" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-5" value="member_id&lt;br&gt;tunebook&lt;br&gt;tunes&lt;br&gt;tune_type&lt;br&gt;tune_id&lt;br&gt;settings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="629" y="214" width="80" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="749" y="419" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-7" value="The Session" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="514" y="249" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-8" value="Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="369" y="460" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-9" value="Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="569" y="449" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-10" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=3;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="639" y="458.5" as="sourcePoint"/>
+                        <mxPoint x="739" y="459" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-11" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=3;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="588.5" y="409" as="sourcePoint"/>
+                        <mxPoint x="589" y="309" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-12" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=3;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="439" y="458.5" as="sourcePoint"/>
+                        <mxPoint x="539" y="459" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-13" value="/session:&lt;br&gt;get&lt;br&gt;tunesByMember&lt;br&gt;tuneById" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="589" y="519" width="106" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-14" value="Frontend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="769" y="449" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-15" value="/tunebook:&lt;br&gt;post&lt;br&gt;get&lt;br&gt;patch&lt;br&gt;delete" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="509" y="519" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-16" value="" style="endArrow=classic;html=1;strokeWidth=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="275" y="458.5" as="sourcePoint"/>
+                        <mxPoint x="345" y="458.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-17" value="Source of tune truth" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="434.5" width="50" height="49" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-18" value="" style="endArrow=classic;html=1;strokeWidth=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="735" y="649" as="sourcePoint"/>
+                        <mxPoint x="695" y="589" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-19" value="Get newly added tunes from The Session API" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="720" y="658" width="96" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-20" value="" style="endArrow=classic;html=1;strokeWidth=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="548.5" y="679" as="sourcePoint"/>
+                        <mxPoint x="548.5" y="609" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-21" value="Interact with tunebook data." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="499" y="680" width="100" height="41" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-22" value="" style="endArrow=classic;html=1;strokeWidth=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="865" y="359" as="sourcePoint"/>
+                        <mxPoint x="815" y="419" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-23" value="Display&amp;nbsp; and manipulate /tunebook data" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="865" y="290" width="80" height="69" as="geometry"/>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-24" value="" style="endArrow=classic;html=1;strokeWidth=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="462.9999999999998" y="149" as="sourcePoint"/>
+                        <mxPoint x="499" y="219" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="lALjYNcaf9FG_cT0yVlG-25" value="Find and add new tunes" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="409" y="90" width="66" height="59" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
