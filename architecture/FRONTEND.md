@@ -18,7 +18,7 @@
 # State
 
 - tunebook: [{tune}]
-  - tune: tuneId, orderNumber, "name", "url", "type", ["aliases"], mySetting, [{settings}]
+  - tune: tuneId, orderId, "name", "url", "type", ["aliases"], mySetting, [{settings}]
     - settings: id, "url", "key", "abc"
 
 # Behaviour
