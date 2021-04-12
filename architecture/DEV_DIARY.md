@@ -28,3 +28,5 @@
 
 - Wrote reducer logic for changing the order of tunes and changing your preferred setting.
 - Added json import support to rollup config file: https://github.com/rollup/plugins/tree/master/packages/json
+- Couldn't get tailwind list-decimal class to work for some reason!
+- Messing around with https://github.com/isaacHagoel/svelte-dnd-action to get drag and drop action on the list.
