@@ -12,7 +12,7 @@ export default function tunebookReducer(state, action) {
       break;
     case SET_MY_SETTING:
       const { newSetting, orderId } = payload;
-      return;
+      return setMySetting(state, orderId, newSetting);
       break;
     default:
       return state;
