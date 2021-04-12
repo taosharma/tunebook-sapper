@@ -1,5 +1,5 @@
-/* The setMySetting function takes in an object with a 'mySetting' property and a 'newSetting' value as a number. It returns the object 
-with the mySetting value updated to match the newSetting value. */
+/* The setMySetting function takes in an array of tunes with a 'mySetting' property; the orderId of the object to change; and a 'newSetting' 
+value as a number. It returns an array with the orderId object's mySetting value updated to match the newSetting value. */
 
 function setMySetting(array, orderId, newSetting) {
   const updatedObject = { ...array[orderId], mySetting: newSetting };
