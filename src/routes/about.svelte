@@ -21,8 +21,4 @@
   <button on:click={() => changeCount("DECREMENT")}>Decrement</button>
 </section>
 
-<style lang="postcss">
-  button {
-    @apply text-yellow-500;
-  }
-</style>
+

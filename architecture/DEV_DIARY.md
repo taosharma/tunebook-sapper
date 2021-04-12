@@ -23,3 +23,8 @@
 - Researched The Session API, concluded json database store need for app.
 - Drew architecture map.
 - Created dummy tunebook data to start coding front end logic.
+
+## 12 April 2021
+
+- Wrote reducer logic for changing the order of tunes and changing your preferred setting.
+- Added json import support to rollup config file: https://github.com/rollup/plugins/tree/master/packages/json
