@@ -3,6 +3,8 @@ import setMySetting from "./setMySetting";
 const oldArray = [{ mySetting: 1 }];
 const newArray = [{ mySetting: 2 }];
 
+//TODO: Test edges cases.
+
 describe("the setMySetting function", () => {
   test("the setMy function changes the the mySetting property of an object to the desired setting", () => {
     // Arrange
