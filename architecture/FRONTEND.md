@@ -2,27 +2,26 @@
 
 - Header
 - ViewControl
-    - ViewTypeButton
+  - ViewTypeButton
 - TuneTypeControl
-    - TuneTypeCheckbox
+  - TuneTypeCheckbox
 - AudioControl
-    - PlayButton
-    - SpeedButton
+  - PlayButton
+  - SpeedButton
 - ListView
-    - ListItem
+  - ListItem
 - TileView
-    - TileItem
+  - TileItem
 - SheetView
-    - SheetItem
+  - SheetItem
 
 # State
 
 - tunebook: [{tune}]
-    - tune: id, tuneId, orderNumber, "name", "url", "type", ["aliases"], mySetting, [{settings}]
-        - settings: id, "url", "key", "abc"
+  - tune: tuneId, orderNumber, "name", "url", "type", ["aliases"], mySetting, [{settings}]
+    - settings: id, "url", "key", "abc"
 
 # Behaviour
 
 - SET_ORDER
 - SET_MY_SETTING
-

@@ -1,5 +1,6 @@
-[{
-    "id": 1,
+[
+  {
+    "orderId": 1,
     "tuneId": 16504,
     "name": "Cronin's Slippery Jig",
     "url": "https://thesession.org/tunes/16504",
@@ -7,318 +8,318 @@
     "aliases": [],
     "mySettings": 31319,
     "settings": [
-        {
-            "id": 31319,
-            "url": "https://thesession.org/tunes/16504#setting31319",
-            "key": "Eminor",
-            "abc": "|: B, |E2B BGE BGE|FDF AFd AFD|EFG ABc BGE|e2B AGF E2:|! e/f/|geB geg bge|dAd fdf afd|eBe geg bge|gfe Be^d e3|! |eBe g2a bge|dAd fdf afd|e/f/gf edB BAG|B/c/dB AGF E2|"
-        }
+      {
+        "id": 31319,
+        "url": "https://thesession.org/tunes/16504#setting31319",
+        "key": "Eminor",
+        "abc": "|: B, |E2B BGE BGE|FDF AFd AFD|EFG ABc BGE|e2B AGF E2:|! e/f/|geB geg bge|dAd fdf afd|eBe geg bge|gfe Be^d e3|! |eBe g2a bge|dAd fdf afd|e/f/gf edB BAG|B/c/dB AGF E2|"
+      }
     ]
-},
+  },
 
-{
-    "id": 5,
+  {
+    "orderId": 5,
     "tuneId": 1985,
     "name": "The Factory Smoke",
     "url": "https://thesession.org/tunes/1985",
     "type": "hornpipe",
     "aliases": [
-        "The Brown Coffin",
-        "The Ebb Tide",
-        "Factory Smoke Clog",
-        "The Tide Come In",
-        "The Tide Comes In",
-        "The Tide Coming In",
-        "When The Tide Comes In"
+      "The Brown Coffin",
+      "The Ebb Tide",
+      "Factory Smoke Clog",
+      "The Tide Come In",
+      "The Tide Comes In",
+      "The Tide Coming In",
+      "When The Tide Comes In"
     ],
     "mySettings": 1985,
     "settings": [
-        {
-            "id": 1985,
-            "url": "https://thesession.org/tunes/1985#setting1985",
-            "key": "Eminor",
-            "abc": "|:B>A|G>FE>D E>FG>A|B2 E2 E2 f>e|d>cB>A G>AB>G|(3ABA (3GFE D2 B>A|! G>FE>D E>FG>A|B>e^d>f e2 e>=d|c>BA>G A>cB>A|1 G2 E2 E2:|2 G2 E2 E2||! |:e>f|g>eB>G e>BG>E|B,>EG>B e>Bg>e|f>dA>F d>AF>D|A,>DF>A B>AG>F|! G>FE>D E>FG>A|B>e^d>f e2 e>B|c>BA>G A>cB>A|1 G2 E2 E2:|2 G2 E2 E2||"
-        },
-        {
-            "id": 15405,
-            "url": "https://thesession.org/tunes/1985#setting15405",
-            "key": "Gminor",
-            "abc": "dc |: BAGF GABc | d2 GF Gbag | f2 dc BcdB | cBAG F2 dc |! BAGF GABc | dg (3fga ~g3d | edcB cedc |1 B2 G2 G2 dc :|2 B2 G2 G2 z2||! |: bgdB gdBG | DGBd gbag | afcA fcAF | CFAc fcAc |! |BAGF GABc | dg (3ggf g2 zd | edcB cedc |1 B2 G2 G2 z2 :|2 B2 G2 G2 dc ||"
-        },
-        {
-            "id": 15406,
-            "url": "https://thesession.org/tunes/1985#setting15406",
-            "key": "Gminor",
-            "abc": "dc|BAG^F GABc|d2G2 G2bg|fedc BcdB|(3cdc (3BAG Fedc|! BAG^F GABc|dg^fa gfgd|edcB ceAc|B2G2 G2:|! |:ga|bgdB gdBG|DGBd gdbg|afcA fcAF|CFAc fcAc|! BAG^F GABc|dg^fa gfgd|edcB ceAc|B2G2 G2:|! dc|BAG^F GABc|d2G2 G2bg|fedc BcdB|(3cdB (3ABG Fedc|! BAG^F GABc|dg^fa gfgd|edcB ceAc|B2G2 G2:|! |:ga|bgdB gdBG|DGBd gdbg|afcA fcAF|CFAc fcAc|! BAG^F GABc|dg^fa gfgd|edcB ceAc|B2G2 G2:|! dc|BAG^F GABc|d2G2 G2bg|fedc BcdB|(3cdB (3ABG F2dc|! BAG^F GABc|dg^fa g2g=f|edcB cdAc|B2G2 G2:|! |:ga|bgdB gdBG|DGBd gabg|afcA fcAF|CFAc fcAc|! BAG^F GABc|dg^fa gfgd|edcB cdAc|B2G2 G2:|"
-        },
-        {
-            "id": 15407,
-            "url": "https://thesession.org/tunes/1985#setting15407",
-            "key": "Gminor",
-            "abc": "dc|BAG^F GABc|d2G2 G2bg|fedc BcdB|(3cdB (3ABG F2dc|! BAG^F GABc|dg^fa g2g=f|edcB cdAc|B2G2 G2:|! |:ga|bgdB gdBG|DGBd gabg|afcA fcAF|CFAc fcAc|! BAG^F GABc|dg^fa g2g=f|edcB cdAc|B2G2 G2:|"
-        },
-        {
-            "id": 23470,
-            "url": "https://thesession.org/tunes/1985#setting23470",
-            "key": "Eminor",
-            "abc": "|:B>A|G>FE>D E>FG>A|B2 E2 E2 f>e|d>cB>A G>AB>G|AGFE D2 B>A|! G>FE>D E>FG>A|B>e^d>f e2 e>B|c>BA>G A>cB>A|1 G2 E2 E2:|2 G2 E2 E2||! |:e>f|g>eB>G e>BG>E|B>EG>B e>Bg>e|f>dA>F d>AF>D|A>DF>A B>AG>F|! G>FE>D E>FG>A|B>e^d>f e2 e>B|c>BA>G A>cB>A|1 G2 E2 E2:|2 G2 E2 E2||"
-        },
-        {
-            "id": 26082,
-            "url": "https://thesession.org/tunes/1985#setting26082",
-            "key": "Eminor",
-            "abc": "|:BA|GFED EFGA|B2 E2 E2 fe|dcBA GABG|(3ABA (3GFE D2 BA|! GFED EFGA|Be^df e2 eB|cBAG AcBA|1 G2 E2 E2:|2 G2 E2 E2||! |:ef|geBG eBGE|B,EGB egfe|fdAF dAFD|A,DFA BAGF|! GFED EFGA|Be^df e2 eB|cBAG AcBA|1 G2 E2 E2:|2 G2 E2 E2||"
-        },
-        {
-            "id": 38337,
-            "url": "https://thesession.org/tunes/1985#setting38337",
-            "key": "Gminor",
-            "abc": "dc|: BAG^F GABc | d2G2 G2ag | fedc BcdB |(3cdc (3BAG F2dc |! BAG^F GABc | dg^fa g3d | edcB cedc |1 B2G2 G2dc :|2 B2G2 G2ga ||! |: bgdB gdBG | DGBd gdbg | afcA fcAF | CFAc dcAc |! BAG^F GABc | dg^fa g3d | edcB cedc |1 B2G2 G2ga :|2 B2G2 G2dc ||"
-        }
+      {
+        "id": 1985,
+        "url": "https://thesession.org/tunes/1985#setting1985",
+        "key": "Eminor",
+        "abc": "|:B>A|G>FE>D E>FG>A|B2 E2 E2 f>e|d>cB>A G>AB>G|(3ABA (3GFE D2 B>A|! G>FE>D E>FG>A|B>e^d>f e2 e>=d|c>BA>G A>cB>A|1 G2 E2 E2:|2 G2 E2 E2||! |:e>f|g>eB>G e>BG>E|B,>EG>B e>Bg>e|f>dA>F d>AF>D|A,>DF>A B>AG>F|! G>FE>D E>FG>A|B>e^d>f e2 e>B|c>BA>G A>cB>A|1 G2 E2 E2:|2 G2 E2 E2||"
+      },
+      {
+        "id": 15405,
+        "url": "https://thesession.org/tunes/1985#setting15405",
+        "key": "Gminor",
+        "abc": "dc |: BAGF GABc | d2 GF Gbag | f2 dc BcdB | cBAG F2 dc |! BAGF GABc | dg (3fga ~g3d | edcB cedc |1 B2 G2 G2 dc :|2 B2 G2 G2 z2||! |: bgdB gdBG | DGBd gbag | afcA fcAF | CFAc fcAc |! |BAGF GABc | dg (3ggf g2 zd | edcB cedc |1 B2 G2 G2 z2 :|2 B2 G2 G2 dc ||"
+      },
+      {
+        "id": 15406,
+        "url": "https://thesession.org/tunes/1985#setting15406",
+        "key": "Gminor",
+        "abc": "dc|BAG^F GABc|d2G2 G2bg|fedc BcdB|(3cdc (3BAG Fedc|! BAG^F GABc|dg^fa gfgd|edcB ceAc|B2G2 G2:|! |:ga|bgdB gdBG|DGBd gdbg|afcA fcAF|CFAc fcAc|! BAG^F GABc|dg^fa gfgd|edcB ceAc|B2G2 G2:|! dc|BAG^F GABc|d2G2 G2bg|fedc BcdB|(3cdB (3ABG Fedc|! BAG^F GABc|dg^fa gfgd|edcB ceAc|B2G2 G2:|! |:ga|bgdB gdBG|DGBd gdbg|afcA fcAF|CFAc fcAc|! BAG^F GABc|dg^fa gfgd|edcB ceAc|B2G2 G2:|! dc|BAG^F GABc|d2G2 G2bg|fedc BcdB|(3cdB (3ABG F2dc|! BAG^F GABc|dg^fa g2g=f|edcB cdAc|B2G2 G2:|! |:ga|bgdB gdBG|DGBd gabg|afcA fcAF|CFAc fcAc|! BAG^F GABc|dg^fa gfgd|edcB cdAc|B2G2 G2:|"
+      },
+      {
+        "id": 15407,
+        "url": "https://thesession.org/tunes/1985#setting15407",
+        "key": "Gminor",
+        "abc": "dc|BAG^F GABc|d2G2 G2bg|fedc BcdB|(3cdB (3ABG F2dc|! BAG^F GABc|dg^fa g2g=f|edcB cdAc|B2G2 G2:|! |:ga|bgdB gdBG|DGBd gabg|afcA fcAF|CFAc fcAc|! BAG^F GABc|dg^fa g2g=f|edcB cdAc|B2G2 G2:|"
+      },
+      {
+        "id": 23470,
+        "url": "https://thesession.org/tunes/1985#setting23470",
+        "key": "Eminor",
+        "abc": "|:B>A|G>FE>D E>FG>A|B2 E2 E2 f>e|d>cB>A G>AB>G|AGFE D2 B>A|! G>FE>D E>FG>A|B>e^d>f e2 e>B|c>BA>G A>cB>A|1 G2 E2 E2:|2 G2 E2 E2||! |:e>f|g>eB>G e>BG>E|B>EG>B e>Bg>e|f>dA>F d>AF>D|A>DF>A B>AG>F|! G>FE>D E>FG>A|B>e^d>f e2 e>B|c>BA>G A>cB>A|1 G2 E2 E2:|2 G2 E2 E2||"
+      },
+      {
+        "id": 26082,
+        "url": "https://thesession.org/tunes/1985#setting26082",
+        "key": "Eminor",
+        "abc": "|:BA|GFED EFGA|B2 E2 E2 fe|dcBA GABG|(3ABA (3GFE D2 BA|! GFED EFGA|Be^df e2 eB|cBAG AcBA|1 G2 E2 E2:|2 G2 E2 E2||! |:ef|geBG eBGE|B,EGB egfe|fdAF dAFD|A,DFA BAGF|! GFED EFGA|Be^df e2 eB|cBAG AcBA|1 G2 E2 E2:|2 G2 E2 E2||"
+      },
+      {
+        "id": 38337,
+        "url": "https://thesession.org/tunes/1985#setting38337",
+        "key": "Gminor",
+        "abc": "dc|: BAG^F GABc | d2G2 G2ag | fedc BcdB |(3cdc (3BAG F2dc |! BAG^F GABc | dg^fa g3d | edcB cedc |1 B2G2 G2dc :|2 B2G2 G2ga ||! |: bgdB gdBG | DGBd gdbg | afcA fcAF | CFAc dcAc |! BAG^F GABc | dg^fa g3d | edcB cedc |1 B2G2 G2ga :|2 B2G2 G2dc ||"
+      }
     ]
-},
-{
-    "id": 2,
+  },
+  {
+    "orderId": 2,
     "tuneId": 559,
     "name": "The Green Cottage",
     "url": "https://thesession.org/tunes/559",
     "type": "polka",
     "aliases": [
-        "From Billy To Jack",
-        "The Glen Cottage Polka #1",
-        "The Glen Cottage",
-        "The Glin Cottage No. 1",
-        "The Glin Cottage",
-        "The Green Cottage #1",
-        "Quarry Cross",
-        "The Quarry Cross",
-        "Teachín An Ghleanna (1)"
+      "From Billy To Jack",
+      "The Glen Cottage Polka #1",
+      "The Glen Cottage",
+      "The Glin Cottage No. 1",
+      "The Glin Cottage",
+      "The Green Cottage #1",
+      "Quarry Cross",
+      "The Quarry Cross",
+      "Teachín An Ghleanna (1)"
     ],
     "mySettings": 559,
     "settings": [
-        {
-            "id": 559,
-            "url": "https://thesession.org/tunes/559#setting559",
-            "key": "Edorian",
-            "abc": "ba|:\"Em\"(ge) (ed)|\"Em\"(Be) (ef)|\"Em\"g>f ed|\"Em\"(ga) \"B\"(b>a)|! \"Em\"ge (ed)|\"Em\"(Be) e2|\"B\"(b>a) (gf)|1 \"Em\"e2 eb/a/:|2 \"Em\"e2 (eA)||! \"Em\" Be (e>f)|\"Em\" ed BA|\"Em\" Be \"Bm\"df|e2 (ef)|! \"Em\"gg/g/ \"Bm\"gg/g/|\"Em\"ed (BA)|\"Em\" B>E E/F/G/A/|1 \"B\" B2 (BA):|2 \"B\" B2B2||",
-            "member": {
-                "id": 1384,
-                "name": "Caoimghgin",
-                "url": "https://thesession.org/members/1384"
-            },
-            "date": "2002-02-21 08:50:53"
+      {
+        "id": 559,
+        "url": "https://thesession.org/tunes/559#setting559",
+        "key": "Edorian",
+        "abc": "ba|:\"Em\"(ge) (ed)|\"Em\"(Be) (ef)|\"Em\"g>f ed|\"Em\"(ga) \"B\"(b>a)|! \"Em\"ge (ed)|\"Em\"(Be) e2|\"B\"(b>a) (gf)|1 \"Em\"e2 eb/a/:|2 \"Em\"e2 (eA)||! \"Em\" Be (e>f)|\"Em\" ed BA|\"Em\" Be \"Bm\"df|e2 (ef)|! \"Em\"gg/g/ \"Bm\"gg/g/|\"Em\"ed (BA)|\"Em\" B>E E/F/G/A/|1 \"B\" B2 (BA):|2 \"B\" B2B2||",
+        "member": {
+          "id": 1384,
+          "name": "Caoimghgin",
+          "url": "https://thesession.org/members/1384"
         },
-        {
-            "id": 13527,
-            "url": "https://thesession.org/tunes/559#setting13527",
-            "key": "Adorian",
-            "abc": "A/B/|: cB AG | EA A>B | cB AG | B/c/d e>d |! cB AG | ED Dc/d/ | ed cB |1 A2 A>B:|2 A2 Ac/d/ ||! |: ea a>b | ae ed | ea ag | a2 AB |! c2 B{c}B | Ae e>d | eA A/B/c/d/ |1 e2 e>d :|2 e2 eA/B/ ||"
-        },
-        {
-            "id": 13528,
-            "url": "https://thesession.org/tunes/559#setting13528",
-            "key": "Edorian",
-            "abc": "B>A[| GE ED | B,E E2 | G>F ED | GA B/=c/B/A/ |! GE ED | B,E E2 | B>A GF | E2 B>A |! GE ED | B,D A,D | B,D A,D | B2 B/=c/B/A/ |! GE ED | B,E E2 | B/=c/B/A/ GF | E2 B>A |]! |: Be ef | eB BA | Be df | e2 ef |! ga/g/ fg/f/ | ed BA | BE E/F/G/A/ | B2 B>A :|"
-        },
-        {
-            "id": 13531,
-            "url": "https://thesession.org/tunes/559#setting13531",
-            "key": "Edorian",
-            "abc": "|: B/A/ |GE EE/D/ | B,E E>G | FD D>E | FG A/B/B/A/ |! GE EE/D/ | B,E E>F | GB AF | E2 E :|! |: B/A/ |Be e>d | eB BA | Be ed | e2 e>f |! ge fg/f/ | eB B>A | GE EF | GA B :|"
-        },
-        {
-            "id": 13532,
-            "url": "https://thesession.org/tunes/559#setting13532",
-            "key": "Bminor",
-            "abc": "f/e/|: dB B>B | FB B>B | cA Ac | e2 f>e |! dB B>B | FB B>B | cf f/e/d/c/ |1 B2 Bf/e/ :|2 B2 B2 ||! |: af a>b | af a>b | af de | f2 b>e |! dB B>B | FB B>B | cf f/e/d/c/ |1 B2 B2:|2 B2 Bf/e/ ||"
-        },
-        {
-            "id": 22745,
-            "url": "https://thesession.org/tunes/559#setting22745",
-            "key": "Bdorian",
-            "abc": "|: f>e |dB B>A | FB B>c | d>c BA | de f/=g/f/e/ |! dB B>A | FB B2 | f/=g/f/e/ dc |[1 B2 :|[2 B4 ||! |: fb b>c' | ba fe | fb ba | b2 bc' |! d'2 c'2 | bf f>e | fB B/c/d/e/ |[1 f4 :|[2 f2- f |]! |: f/e/ |dB BA | FB B>c | dc BA | de f>e |! dB BA | FB Bd | f/=g/f/e/ dc | B2- B :|! |: B/A/ |FB- B>c | BA FE | FB Ac | B2- Bc |! de/d/ cd/c/ | BF- F>E |[1 FB B/c/B/A/ | B2- B :|[2 FB B/c/d/e/ | f2 |]"
-        },
-        {
-            "id": 24163,
-            "url": "https://thesession.org/tunes/559#setting24163",
-            "key": "Adorian",
-            "abc": "e/d/|: cB BG | EA AB | cB AG | cd ed |! cB BG | EA A2 | ed cB |1 A3 e/d/ :|2 A2 ed ||! |: e>a a>b | a>e e>d | e>a a>b | a2 ab |! c’2 b2 | ag ed | eA A/B/c/d/ |1 e2 ed :|2 e2 ee/d/ ||"
-        },
-        {
-            "id": 28380,
-            "url": "https://thesession.org/tunes/559#setting28380",
-            "key": "Edorian",
-            "abc": "B>A|: GE ED | B,E E>F | G>F ED | GA B/d/B/A/ |! GE ED | B,E E>A | B>A GF |1 E2 B>A :|2 E3 A ||! |: Be ef | ed BA | Be df | e3 f |! g2 f2 | ed B>A | BE E/F/G/A/ |1 B3 A :|2 B4 ||"
-        },
-        {
-            "id": 29458,
-            "url": "https://thesession.org/tunes/559#setting29458",
-            "key": "Edorian",
-            "abc": "B>A|:GE ED|B,E E>F|GF ED|GA B/d/B/A/|! GE ED|B,E E2|B>A GF|1 E2 B>A:|2 E3 A||! |:Be ef|ed BA|Be df|e3f|! g2 f2|ed BA|BE E/F/G/A/|1 B3 A:|2 B4||"
-        },
-        {
-            "id": 30874,
-            "url": "https://thesession.org/tunes/559#setting30874",
-            "key": "Gdorian",
-            "abc": "d>c |:BG G/2A/2G/2F/2 | DG GA | B>A GF | Bc dc |! BG G/2A/2G/2F/2 | DG Gc | d>c BA |[1 G2 d>c :|[2 G3 c |]! |: dg g>a | gf dc | dg g>a | g2 ga |! b2 (a/2b/2a) | gf d>c | dG G/2A/2B/2c/2 |[1 d3 c :|[2 d2 d>c |]"
-        },
-        {
-            "id": 33576,
-            "url": "https://thesession.org/tunes/559#setting33576",
-            "key": "Adorian",
-            "abc": "|: cA A>G | EA A>B | cA AG | cd e>d |! cA A>G | EA A2 | ed cB |1 A2 e>d :|2 A2 A2 ||! |: ea ab | ag ed | ea gb | a2 ab |! c’2 b2 | ag ed | eA A/B/c/d/ | e2 ed :|"
-        },
-        {
-            "id": 35408,
-            "url": "https://thesession.org/tunes/559#setting35408",
-            "key": "Eminor",
-            "abc": "B/A/|:\"Em\"GE ED|B,E E>F|GA/G/ ED|\"G\"GA \"Bm\"BB/A/|! \"Em\"GE ED|B,E EF|\"G\"GA \"Bm\"B/d/B/A/|\"Em\"GE EB/A/:|! |:\"Em\"Be e>f|ed B/d/B/A/|Be ed|\"C\"e2e>f|! \"G\"g2\"D\"fg/f/|\"Em\"ed B>A|BE ED||1 \"G\"G>A \"D\"B>A:|2 \"Em\"E3|]"
-        },
-        {
-            "id": 35744,
-            "url": "https://thesession.org/tunes/559#setting35744",
-            "key": "Edorian",
-            "abc": "|: GE ED | B,E ~E2 | GF ED | GA B>A |! GE ED | B,E EG | B/c/B/A/ GF | E2 B>A :|! |: Be ef | eB BA | Be df | e2 ef |! ga/g/ fg/f/ | ed BA | BE FG/A/| B2 B>A :|"
-        },
-        {
-            "id": 36067,
-            "url": "https://thesession.org/tunes/559#setting36067",
-            "key": "Eminor",
-            "abc": "B/c/B/A/|: GE E/F/E/D/ | B,E E>F | GF ED | GA B>A |! GE E/F/E/D/ | B,E E2 | B/c/B/A/ GF |1 E2 B/c/B/A/ :|2 E2 E2 ||! |: Be ef | eB c/B/A | Be ed | e2 ef |! g2 fg/f/ | ed BA | BE E/F/G/A/ | B2 B/c/B/A/ :|"
-        }
+        "date": "2002-02-21 08:50:53"
+      },
+      {
+        "id": 13527,
+        "url": "https://thesession.org/tunes/559#setting13527",
+        "key": "Adorian",
+        "abc": "A/B/|: cB AG | EA A>B | cB AG | B/c/d e>d |! cB AG | ED Dc/d/ | ed cB |1 A2 A>B:|2 A2 Ac/d/ ||! |: ea a>b | ae ed | ea ag | a2 AB |! c2 B{c}B | Ae e>d | eA A/B/c/d/ |1 e2 e>d :|2 e2 eA/B/ ||"
+      },
+      {
+        "id": 13528,
+        "url": "https://thesession.org/tunes/559#setting13528",
+        "key": "Edorian",
+        "abc": "B>A[| GE ED | B,E E2 | G>F ED | GA B/=c/B/A/ |! GE ED | B,E E2 | B>A GF | E2 B>A |! GE ED | B,D A,D | B,D A,D | B2 B/=c/B/A/ |! GE ED | B,E E2 | B/=c/B/A/ GF | E2 B>A |]! |: Be ef | eB BA | Be df | e2 ef |! ga/g/ fg/f/ | ed BA | BE E/F/G/A/ | B2 B>A :|"
+      },
+      {
+        "id": 13531,
+        "url": "https://thesession.org/tunes/559#setting13531",
+        "key": "Edorian",
+        "abc": "|: B/A/ |GE EE/D/ | B,E E>G | FD D>E | FG A/B/B/A/ |! GE EE/D/ | B,E E>F | GB AF | E2 E :|! |: B/A/ |Be e>d | eB BA | Be ed | e2 e>f |! ge fg/f/ | eB B>A | GE EF | GA B :|"
+      },
+      {
+        "id": 13532,
+        "url": "https://thesession.org/tunes/559#setting13532",
+        "key": "Bminor",
+        "abc": "f/e/|: dB B>B | FB B>B | cA Ac | e2 f>e |! dB B>B | FB B>B | cf f/e/d/c/ |1 B2 Bf/e/ :|2 B2 B2 ||! |: af a>b | af a>b | af de | f2 b>e |! dB B>B | FB B>B | cf f/e/d/c/ |1 B2 B2:|2 B2 Bf/e/ ||"
+      },
+      {
+        "id": 22745,
+        "url": "https://thesession.org/tunes/559#setting22745",
+        "key": "Bdorian",
+        "abc": "|: f>e |dB B>A | FB B>c | d>c BA | de f/=g/f/e/ |! dB B>A | FB B2 | f/=g/f/e/ dc |[1 B2 :|[2 B4 ||! |: fb b>c' | ba fe | fb ba | b2 bc' |! d'2 c'2 | bf f>e | fB B/c/d/e/ |[1 f4 :|[2 f2- f |]! |: f/e/ |dB BA | FB B>c | dc BA | de f>e |! dB BA | FB Bd | f/=g/f/e/ dc | B2- B :|! |: B/A/ |FB- B>c | BA FE | FB Ac | B2- Bc |! de/d/ cd/c/ | BF- F>E |[1 FB B/c/B/A/ | B2- B :|[2 FB B/c/d/e/ | f2 |]"
+      },
+      {
+        "id": 24163,
+        "url": "https://thesession.org/tunes/559#setting24163",
+        "key": "Adorian",
+        "abc": "e/d/|: cB BG | EA AB | cB AG | cd ed |! cB BG | EA A2 | ed cB |1 A3 e/d/ :|2 A2 ed ||! |: e>a a>b | a>e e>d | e>a a>b | a2 ab |! c’2 b2 | ag ed | eA A/B/c/d/ |1 e2 ed :|2 e2 ee/d/ ||"
+      },
+      {
+        "id": 28380,
+        "url": "https://thesession.org/tunes/559#setting28380",
+        "key": "Edorian",
+        "abc": "B>A|: GE ED | B,E E>F | G>F ED | GA B/d/B/A/ |! GE ED | B,E E>A | B>A GF |1 E2 B>A :|2 E3 A ||! |: Be ef | ed BA | Be df | e3 f |! g2 f2 | ed B>A | BE E/F/G/A/ |1 B3 A :|2 B4 ||"
+      },
+      {
+        "id": 29458,
+        "url": "https://thesession.org/tunes/559#setting29458",
+        "key": "Edorian",
+        "abc": "B>A|:GE ED|B,E E>F|GF ED|GA B/d/B/A/|! GE ED|B,E E2|B>A GF|1 E2 B>A:|2 E3 A||! |:Be ef|ed BA|Be df|e3f|! g2 f2|ed BA|BE E/F/G/A/|1 B3 A:|2 B4||"
+      },
+      {
+        "id": 30874,
+        "url": "https://thesession.org/tunes/559#setting30874",
+        "key": "Gdorian",
+        "abc": "d>c |:BG G/2A/2G/2F/2 | DG GA | B>A GF | Bc dc |! BG G/2A/2G/2F/2 | DG Gc | d>c BA |[1 G2 d>c :|[2 G3 c |]! |: dg g>a | gf dc | dg g>a | g2 ga |! b2 (a/2b/2a) | gf d>c | dG G/2A/2B/2c/2 |[1 d3 c :|[2 d2 d>c |]"
+      },
+      {
+        "id": 33576,
+        "url": "https://thesession.org/tunes/559#setting33576",
+        "key": "Adorian",
+        "abc": "|: cA A>G | EA A>B | cA AG | cd e>d |! cA A>G | EA A2 | ed cB |1 A2 e>d :|2 A2 A2 ||! |: ea ab | ag ed | ea gb | a2 ab |! c’2 b2 | ag ed | eA A/B/c/d/ | e2 ed :|"
+      },
+      {
+        "id": 35408,
+        "url": "https://thesession.org/tunes/559#setting35408",
+        "key": "Eminor",
+        "abc": "B/A/|:\"Em\"GE ED|B,E E>F|GA/G/ ED|\"G\"GA \"Bm\"BB/A/|! \"Em\"GE ED|B,E EF|\"G\"GA \"Bm\"B/d/B/A/|\"Em\"GE EB/A/:|! |:\"Em\"Be e>f|ed B/d/B/A/|Be ed|\"C\"e2e>f|! \"G\"g2\"D\"fg/f/|\"Em\"ed B>A|BE ED||1 \"G\"G>A \"D\"B>A:|2 \"Em\"E3|]"
+      },
+      {
+        "id": 35744,
+        "url": "https://thesession.org/tunes/559#setting35744",
+        "key": "Edorian",
+        "abc": "|: GE ED | B,E ~E2 | GF ED | GA B>A |! GE ED | B,E EG | B/c/B/A/ GF | E2 B>A :|! |: Be ef | eB BA | Be df | e2 ef |! ga/g/ fg/f/ | ed BA | BE FG/A/| B2 B>A :|"
+      },
+      {
+        "id": 36067,
+        "url": "https://thesession.org/tunes/559#setting36067",
+        "key": "Eminor",
+        "abc": "B/c/B/A/|: GE E/F/E/D/ | B,E E>F | GF ED | GA B>A |! GE E/F/E/D/ | B,E E2 | B/c/B/A/ GF |1 E2 B/c/B/A/ :|2 E2 E2 ||! |: Be ef | eB c/B/A | Be ed | e2 ef |! g2 fg/f/ | ed BA | BE E/F/G/A/ | B2 B/c/B/A/ :|"
+      }
     ]
-},
-{
-    "id": 3,
+  },
+  {
+    "orderId": 3,
     "tuneId": 1552,
     "name": "Lucy Campbell",
     "url": "https://thesession.org/tunes/1552",
     "type": "reel",
     "aliases": [
-        "Lucy Cambell",
-        "Lucy Cambell's",
-        "Lucy Campbell",
-        "Luighseach Chaimbhéal",
-        "Miss Lucy Campbell"
+      "Lucy Cambell",
+      "Lucy Cambell's",
+      "Lucy Campbell",
+      "Luighseach Chaimbhéal",
+      "Miss Lucy Campbell"
     ],
     "mySettings": 1552,
     "settings": [
-        {
-            "id": 1552,
-            "url": "https://thesession.org/tunes/1552#setting1552",
-            "key": "Dmajor",
-            "abc": "| A2 FA A2 dB | A2 FA BE E2 | A2 FA defe | dBAF AD D2 |! AD (3FED A2 dB | (3ABA FA BE E2 | ADFA defe | dBAF AD D2 ||! dBAB defe | d2 cABE E2 | dBAB defe | dBAF AD D2 |! dBAB defe | dB (3BAB gBdB | A2 FA defe | dBAF AD D2 ||! a3 f defg | a2 fa be e2 | a3 f defe | dBAF AD D2 |! a3 f defg | (3aba fa beef | g3 e f3 e | dBAF AD D2 ||! df (3fef dfef | df (3fef afef | dffe f3 e | dBAF AD D2 |! df (3fef dfef | df (3fef afef | g3 e f3 e | dBAF AD D2 ||"
-        },
-        {
-            "id": 27214,
-            "url": "https://thesession.org/tunes/1552#setting27214",
-            "key": "Dmajor",
-            "abc": "dB|AD(3DDD D2 dB|ADFA BE~E2|ADFA dfec|dBAF AD~D2|! AD(3DDD AD BD|ADFA BE~E2|ADFA dfec|dBAF AD~D2||! dBAB defe|d2cA BE~E2|dBAB defe|dBAF AD~D2|! dBAB defe|dB~B2 gB~B2|dBAB defe|dBAF AD~D2||! faaf defg|a2fa b~e3|faaf defe|dBAF AD~D2|! faaf defg|a2fa b~e3|~g3e ~f3e|dBAF AD~D2||! |:df~f2 dfef|df~f2 afef|1 dffe ~f3e|dBAF AD~D2:|2 ~g3e ~f3e|dBAF AD~D2||"
-        },
-        {
-            "id": 28377,
-            "url": "https://thesession.org/tunes/1552#setting28377",
-            "key": "Dmajor",
-            "abc": "dB | AD ~D2 A3B | ADFA BE~E2 | ADFA dfec | dBAF AD~D2 |! AD ~D2 A3B| ADFA BE~E2 | ADFA dfec | dBAF A2~D2 ||! dBAB defe | d2cA BE~E2 | dBAB defe | dBAF AD~[AD]2 |! dBAB defe | dB~B2 gB~B2 | dBAB defe | dBAF A2~[AD]2 ||! aaaf defg | a2fa beeg | aaaf defe | dBAF A2~A2 |! aaaf defg | a2fa bgef | g3e f3e | dBAF A2 ~A2 ||! dfef dfef | dfef dfef | dffe ~f3e | dBAF A2~[AD]|! dfef dfef | dfef dfef | ~g3e ~f3e|dBAF AD ||"
-        },
-        {
-            "id": 29073,
-            "url": "https://thesession.org/tunes/1552#setting29073",
-            "key": "Dmajor",
-            "abc": "dB | AD~D2 [DA,]3B | ADFA BE (3EEE | ADFA dfec | dBAF AD (3DDD |! AD~D2 [DA,]3B | ADFA BE (3EEE | ADFA dfec | dBAF AD (3DDD ||! dBAB defe | d2cd B2 (3EEE | dBAB defe | dBAF A2 (3AAA |! dBAB defe | dB (3BBB gB (3BBB | dBAB defe | dBAF A2 (3AAA ||! faaf defg | a2fa bg eg | faaf defe | dBAF A2 (3AAA |! faaf defg | a2fa bgef | g3e f2fe | dBAF A2 (3AAA ||! d~f3 dfef | dfef afef | df{a}fe ~f3e | dBAF A2 (3AAA |! d~f3 dfef | dfef afef | g3e f2fe |dBAF A2 ||"
-        },
-        {
-            "id": 34112,
-            "url": "https://thesession.org/tunes/1552#setting34112",
-            "key": "Dmajor",
-            "abc": "FD D2A2dB | ADFA BE E2 | AD D2 fgfe | dBAF AD D2 |! AD D2 A2 dB | A2 FA BE E2 | DEFA dfec | dBAF AD D2 ||! dBAB defd | d2 cA BE E2 | ADFA fgfe | dBAF AD D2 |! dBAB defe | dB B2 gB B2 | dBAB defe | dBAF AD D2 ||! a3 f defg | a2 fa bgeg | faaf defe | dBAF AD D2 |! af f2 defg | a2 fa bgef | g3 e f3 e | dBAF AD D2 ||! df f2 dfef | df f2 afef | dffe f3 e | dBAF AD D2 |! df f2 df f2 | dff2 afef | g3 e f3 e | dBAF AD D2 |]"
-        },
-        {
-            "id": 36795,
-            "url": "https://thesession.org/tunes/1552#setting36795",
-            "key": "Dmajor",
-            "abc": "FD D2A2dB | ADFA BE E2 | ADFA dfec | dBAF AD D2 |! AD D2 A2 dB | A2 FA BE E2 | DEFA dfec | dBAF AD D2 ||! dBAB defe | dB B2 gB B2 | dBAB defe | dBAF AD D2 |! dBAB defe | dB B2 gB B2 | dBAB dfec | dBAF AD D2 ||! a3 f defg | a2 fa be e2 | a3f dfec | dBAF AD D2 |! af f2 defg | a2 fa be e2 | g3 e f3 e | dBAF AD D2 ||! df f2 dfef | df f2 afef | dffe f3 e | dBAF AD D2 |! df f2 dfef | dff2 afef | g3 e f3 e | dBAF AD D2 ||"
-        }
+      {
+        "id": 1552,
+        "url": "https://thesession.org/tunes/1552#setting1552",
+        "key": "Dmajor",
+        "abc": "| A2 FA A2 dB | A2 FA BE E2 | A2 FA defe | dBAF AD D2 |! AD (3FED A2 dB | (3ABA FA BE E2 | ADFA defe | dBAF AD D2 ||! dBAB defe | d2 cABE E2 | dBAB defe | dBAF AD D2 |! dBAB defe | dB (3BAB gBdB | A2 FA defe | dBAF AD D2 ||! a3 f defg | a2 fa be e2 | a3 f defe | dBAF AD D2 |! a3 f defg | (3aba fa beef | g3 e f3 e | dBAF AD D2 ||! df (3fef dfef | df (3fef afef | dffe f3 e | dBAF AD D2 |! df (3fef dfef | df (3fef afef | g3 e f3 e | dBAF AD D2 ||"
+      },
+      {
+        "id": 27214,
+        "url": "https://thesession.org/tunes/1552#setting27214",
+        "key": "Dmajor",
+        "abc": "dB|AD(3DDD D2 dB|ADFA BE~E2|ADFA dfec|dBAF AD~D2|! AD(3DDD AD BD|ADFA BE~E2|ADFA dfec|dBAF AD~D2||! dBAB defe|d2cA BE~E2|dBAB defe|dBAF AD~D2|! dBAB defe|dB~B2 gB~B2|dBAB defe|dBAF AD~D2||! faaf defg|a2fa b~e3|faaf defe|dBAF AD~D2|! faaf defg|a2fa b~e3|~g3e ~f3e|dBAF AD~D2||! |:df~f2 dfef|df~f2 afef|1 dffe ~f3e|dBAF AD~D2:|2 ~g3e ~f3e|dBAF AD~D2||"
+      },
+      {
+        "id": 28377,
+        "url": "https://thesession.org/tunes/1552#setting28377",
+        "key": "Dmajor",
+        "abc": "dB | AD ~D2 A3B | ADFA BE~E2 | ADFA dfec | dBAF AD~D2 |! AD ~D2 A3B| ADFA BE~E2 | ADFA dfec | dBAF A2~D2 ||! dBAB defe | d2cA BE~E2 | dBAB defe | dBAF AD~[AD]2 |! dBAB defe | dB~B2 gB~B2 | dBAB defe | dBAF A2~[AD]2 ||! aaaf defg | a2fa beeg | aaaf defe | dBAF A2~A2 |! aaaf defg | a2fa bgef | g3e f3e | dBAF A2 ~A2 ||! dfef dfef | dfef dfef | dffe ~f3e | dBAF A2~[AD]|! dfef dfef | dfef dfef | ~g3e ~f3e|dBAF AD ||"
+      },
+      {
+        "id": 29073,
+        "url": "https://thesession.org/tunes/1552#setting29073",
+        "key": "Dmajor",
+        "abc": "dB | AD~D2 [DA,]3B | ADFA BE (3EEE | ADFA dfec | dBAF AD (3DDD |! AD~D2 [DA,]3B | ADFA BE (3EEE | ADFA dfec | dBAF AD (3DDD ||! dBAB defe | d2cd B2 (3EEE | dBAB defe | dBAF A2 (3AAA |! dBAB defe | dB (3BBB gB (3BBB | dBAB defe | dBAF A2 (3AAA ||! faaf defg | a2fa bg eg | faaf defe | dBAF A2 (3AAA |! faaf defg | a2fa bgef | g3e f2fe | dBAF A2 (3AAA ||! d~f3 dfef | dfef afef | df{a}fe ~f3e | dBAF A2 (3AAA |! d~f3 dfef | dfef afef | g3e f2fe |dBAF A2 ||"
+      },
+      {
+        "id": 34112,
+        "url": "https://thesession.org/tunes/1552#setting34112",
+        "key": "Dmajor",
+        "abc": "FD D2A2dB | ADFA BE E2 | AD D2 fgfe | dBAF AD D2 |! AD D2 A2 dB | A2 FA BE E2 | DEFA dfec | dBAF AD D2 ||! dBAB defd | d2 cA BE E2 | ADFA fgfe | dBAF AD D2 |! dBAB defe | dB B2 gB B2 | dBAB defe | dBAF AD D2 ||! a3 f defg | a2 fa bgeg | faaf defe | dBAF AD D2 |! af f2 defg | a2 fa bgef | g3 e f3 e | dBAF AD D2 ||! df f2 dfef | df f2 afef | dffe f3 e | dBAF AD D2 |! df f2 df f2 | dff2 afef | g3 e f3 e | dBAF AD D2 |]"
+      },
+      {
+        "id": 36795,
+        "url": "https://thesession.org/tunes/1552#setting36795",
+        "key": "Dmajor",
+        "abc": "FD D2A2dB | ADFA BE E2 | ADFA dfec | dBAF AD D2 |! AD D2 A2 dB | A2 FA BE E2 | DEFA dfec | dBAF AD D2 ||! dBAB defe | dB B2 gB B2 | dBAB defe | dBAF AD D2 |! dBAB defe | dB B2 gB B2 | dBAB dfec | dBAF AD D2 ||! a3 f defg | a2 fa be e2 | a3f dfec | dBAF AD D2 |! af f2 defg | a2 fa be e2 | g3 e f3 e | dBAF AD D2 ||! df f2 dfef | df f2 afef | dffe f3 e | dBAF AD D2 |! df f2 dfef | dff2 afef | g3 e f3 e | dBAF AD D2 ||"
+      }
     ]
-},
-{
-    "id": 4,
+  },
+  {
+    "orderId": 4,
     "tuneId": 67,
     "name": "The Monaghan",
     "url": "https://thesession.org/tunes/67",
     "type": "jig",
     "aliases": [
-        "Clay Pipe",
-        "The Clay Pipe",
-        "Cock Up Your Chin Billy",
-        "Coleman's",
-        "Monaghan's",
-        "Monahan",
-        "Monahan's",
-        "Port Mhuineacháin"
+      "Clay Pipe",
+      "The Clay Pipe",
+      "Cock Up Your Chin Billy",
+      "Coleman's",
+      "Monaghan's",
+      "Monahan",
+      "Monahan's",
+      "Port Mhuineacháin"
     ],
-    "mySettings": 67,
+    "orderId": 67,
     "settings": [
-        {
-            "id": 67,
-            "url": "https://thesession.org/tunes/67#setting67",
-            "key": "Eminor",
-            "abc": "|:BGE F2E|BGE FGA|BGE F2E|AFD FGA|! GBE F2E|BGE FGA|d^cd ABG|FDF AGF:|! |:EGB efg|fed edB|EGB dBG|FDF AGF|! EGB efg|fed edB|d^cd ABG|FDF AGF:|! |:g2e efe|gfg bge|g2e efe|fdf afd|! g2e efe|gfg bge|d^cd ABG|FDF AGF:|! |:EGB edB|dBG AFD|EGB dBG|FDF AGF|! EGB GBd|Beg efg|d^cd ABG|FDF AGF:|"
-        },
-        {
-            "id": 12519,
-            "url": "https://thesession.org/tunes/67#setting12519",
-            "key": "Gmajor",
-            "abc": "G|B2e dBG|A>BA A2G|B2e dBG|d>BB TB2! A|B2e dBG|A>BA g2a|g>eg dBG|B>cB B2:|! G|g2g gab|d>ed dBG|g2g gab|g>ee e2! d|def gfe|def g>ab|g>eg dBG|B>cB B2:|! G2e dBG|~B3 dBA|G2e dBG|~A3 BGE|! G2e dBG|~B3 deg|age dBG|~A3 BGE:|! ~g3 faf|e/f/ge def|gfg efg|aga bge|! gbg f/g/af|ege deg|age dBG|~A3 BGE:|"
-        },
-        {
-            "id": 12520,
-            "url": "https://thesession.org/tunes/67#setting12520",
-            "key": "Eminor",
-            "abc": "EGB eBG|BGE FAF|EGB eBG|F3 AFD|! EGB GBe|Beg efg|d3 A2G|FDF AGF|"
-        },
-        {
-            "id": 12521,
-            "url": "https://thesession.org/tunes/67#setting12521",
-            "key": "Edorian",
-            "abc": "|: BGE FFE | BGE FGA | BGE BGE | AFD DFA |! BGE FFE | BGE FGA | ded ABG | FDF AFD :|! |: EGB efg | fed edA | DFA dAG | FFF AFD |! EGB efg | fed edc | ded ABG | FDF AFD :|! |: ggg eBe | ggg bge | ggg eag | fdf afd |! ggg eBe | ggg bge | ded ABG | FDF AFD :|! |: EGB eBG | BGE AFD | EGB eBG | FFF AFD |! EGB GBd | Beg egb | ged ABG | FDF AFD :|"
-        },
-        {
-            "id": 23930,
-            "url": "https://thesession.org/tunes/67#setting23930",
-            "key": "Dmajor",
-            "abc": "BGE ~F2 E | BGE FGA | BGE ~F3 | AFD EFG |! BGE ~F3 | BGE FGA | d2 B ABG | ~F3 AFD :|! |: EGB efg | fdf ecA | DFA dAG | ~F3 AFD |! EGB e2 g | ~f3 edc | dcB ABG | ~F3 AFD :|! |: ~g3 eBe | ~g3 bge | g2 g eBe | ~f3 afd |! ~g3 eBe | geg bge | d2 B ABG | ~F3 AFD :|"
-        },
-        {
-            "id": 25892,
-            "url": "https://thesession.org/tunes/67#setting25892",
-            "key": "Eminor",
-            "abc": "|:BGE F2E|BGE FGA|BGE F2E|AFD FGA|! BGE F2E|BGE FGA|dcB ABG|FDF AGF:|! |:EGB efg|fed edB|EGB dBG|FDF AGF|! EGB efg|fed edB|dcB ABG|FDF AGF:|! |:g2e efe|geg bge|g2e eBe|fdf afd|! g2e efe|geg bge|d2B ABG|FDF AGF:|! |:EGB edB|dBG AFD|EGB dBG|FDF AGF|! EGB GBd|Beg egb|dcB ABG|FDF AGF:|"
-        },
-        {
-            "id": 27543,
-            "url": "https://thesession.org/tunes/67#setting27543",
-            "key": "Edorian",
-            "abc": "A |:B2E EGE|GFG/A/ BGE|B2E EGE|FDF/G/ AGF |! B2E EGE|GFG ABc|dcB ABG|FDF/G/ AGF:|! |:E2e efg|fed eBG|DF/A/B/c/ dAG|FDF/G/ AGF|! E2e efg|fed edc|dcB ABG|FDF/G/ AGF:|! |:g2e ege|gfg/a/ bge|g2 e ege|fdf/g/ agf|! g2e efe|gfg/a/ bge|dcB ABG|FDF/G/ AGF:|]"
-        },
-        {
-            "id": 27561,
-            "url": "https://thesession.org/tunes/67#setting27561",
-            "key": "Eminor",
-            "abc": "|:BGE E2e|BGE FGA|BGE E2d|AFD FGA|! BGE E2e|BGE FGA|1 d^cd ABG|FDF AFA:|2 d^cB ABG|FDF AFD||! |:EGB efg|fe^d e2F|EGB eBG|FDF AFD|! EGB efg|fdf e^ce|1 dcB ABG|FDF AFD:|2 d^cd ABG|FDF AFA||! |:g2e efe|geg bge|g2e efg|fdf agf|! g2e efe|geg bge|1 d^cd ABG|FDF AFA:|2 d^cB ABG|FDF AFD||! |:EGB eBG|BGE FGF|EGB eBG|FDF AGF|! EGB GBe|Beg egb|fed ABG|1 FDF AGF:|2 FED D3||"
-        },
-        {
-            "id": 29029,
-            "url": "https://thesession.org/tunes/67#setting29029",
-            "key": "Edorian",
-            "abc": "\"Em\"BGE FGE|BGE \"D\"FGA|\"Em\"BGE FGE|\"D\"AFD FGA|! \"Em\"BGE FGE|BGE \"D\"FGA|\"G\"d2B ABG|\"D\"FDF AFD:|! \"Em\"EGB e2g|\"Bm\"fed \"Em\"edB|EGB eBG|\"D\"FDF AFD|! \"Em\"EGB e2g|\"Bm\"fed \"Em\"edc|\"G\"~d3 cAG|\"D\"FDF AFD:|! \"Em\"g2e efe|g2a bge|~g3 \"A7\"~e3|\"D\"~f3 afd|! \"Em\"gbg e2f|geg bge|\"G\"dcd ABG|\"D\"FDF AFD:|! \"Em\"EGB eBG|BGE \"D\"FAF|\"Em\"EGB eBG|\"D\"~F3 AGF|! \"Em\"EGB GBd|Beg efg|\"A7\"~d3 A2G|\"D\"FDF AGF:|"
-        },
-        {
-            "id": 31198,
-            "url": "https://thesession.org/tunes/67#setting31198",
-            "key": "Eminor",
-            "abc": "|: BGE FEF | BGE FGA | BGE BBB | AFD FGA |! BGE FEF | BGE FGA | dcB ABG | FDF AGF :|! |: EGB efg | fed edB | EFG AAG | FDF AGF |! EGB efg | fed edB | dcB ABG | FDF AGF :|! |: g2e eBe| geg bge | g2e eBe | fdf agf |! g2e eBe | geg bge | dcB ABG | FDF AGF :|! |: EGB eBG | BGE FAF | EGB eBG | FDF AGF |! EGB GBe | Beg efg | dcB ABG | FDF AGF :|"
-        }
+      {
+        "id": 67,
+        "url": "https://thesession.org/tunes/67#setting67",
+        "key": "Eminor",
+        "abc": "|:BGE F2E|BGE FGA|BGE F2E|AFD FGA|! GBE F2E|BGE FGA|d^cd ABG|FDF AGF:|! |:EGB efg|fed edB|EGB dBG|FDF AGF|! EGB efg|fed edB|d^cd ABG|FDF AGF:|! |:g2e efe|gfg bge|g2e efe|fdf afd|! g2e efe|gfg bge|d^cd ABG|FDF AGF:|! |:EGB edB|dBG AFD|EGB dBG|FDF AGF|! EGB GBd|Beg efg|d^cd ABG|FDF AGF:|"
+      },
+      {
+        "id": 12519,
+        "url": "https://thesession.org/tunes/67#setting12519",
+        "key": "Gmajor",
+        "abc": "G|B2e dBG|A>BA A2G|B2e dBG|d>BB TB2! A|B2e dBG|A>BA g2a|g>eg dBG|B>cB B2:|! G|g2g gab|d>ed dBG|g2g gab|g>ee e2! d|def gfe|def g>ab|g>eg dBG|B>cB B2:|! G2e dBG|~B3 dBA|G2e dBG|~A3 BGE|! G2e dBG|~B3 deg|age dBG|~A3 BGE:|! ~g3 faf|e/f/ge def|gfg efg|aga bge|! gbg f/g/af|ege deg|age dBG|~A3 BGE:|"
+      },
+      {
+        "id": 12520,
+        "url": "https://thesession.org/tunes/67#setting12520",
+        "key": "Eminor",
+        "abc": "EGB eBG|BGE FAF|EGB eBG|F3 AFD|! EGB GBe|Beg efg|d3 A2G|FDF AGF|"
+      },
+      {
+        "id": 12521,
+        "url": "https://thesession.org/tunes/67#setting12521",
+        "key": "Edorian",
+        "abc": "|: BGE FFE | BGE FGA | BGE BGE | AFD DFA |! BGE FFE | BGE FGA | ded ABG | FDF AFD :|! |: EGB efg | fed edA | DFA dAG | FFF AFD |! EGB efg | fed edc | ded ABG | FDF AFD :|! |: ggg eBe | ggg bge | ggg eag | fdf afd |! ggg eBe | ggg bge | ded ABG | FDF AFD :|! |: EGB eBG | BGE AFD | EGB eBG | FFF AFD |! EGB GBd | Beg egb | ged ABG | FDF AFD :|"
+      },
+      {
+        "id": 23930,
+        "url": "https://thesession.org/tunes/67#setting23930",
+        "key": "Dmajor",
+        "abc": "BGE ~F2 E | BGE FGA | BGE ~F3 | AFD EFG |! BGE ~F3 | BGE FGA | d2 B ABG | ~F3 AFD :|! |: EGB efg | fdf ecA | DFA dAG | ~F3 AFD |! EGB e2 g | ~f3 edc | dcB ABG | ~F3 AFD :|! |: ~g3 eBe | ~g3 bge | g2 g eBe | ~f3 afd |! ~g3 eBe | geg bge | d2 B ABG | ~F3 AFD :|"
+      },
+      {
+        "id": 25892,
+        "url": "https://thesession.org/tunes/67#setting25892",
+        "key": "Eminor",
+        "abc": "|:BGE F2E|BGE FGA|BGE F2E|AFD FGA|! BGE F2E|BGE FGA|dcB ABG|FDF AGF:|! |:EGB efg|fed edB|EGB dBG|FDF AGF|! EGB efg|fed edB|dcB ABG|FDF AGF:|! |:g2e efe|geg bge|g2e eBe|fdf afd|! g2e efe|geg bge|d2B ABG|FDF AGF:|! |:EGB edB|dBG AFD|EGB dBG|FDF AGF|! EGB GBd|Beg egb|dcB ABG|FDF AGF:|"
+      },
+      {
+        "id": 27543,
+        "url": "https://thesession.org/tunes/67#setting27543",
+        "key": "Edorian",
+        "abc": "A |:B2E EGE|GFG/A/ BGE|B2E EGE|FDF/G/ AGF |! B2E EGE|GFG ABc|dcB ABG|FDF/G/ AGF:|! |:E2e efg|fed eBG|DF/A/B/c/ dAG|FDF/G/ AGF|! E2e efg|fed edc|dcB ABG|FDF/G/ AGF:|! |:g2e ege|gfg/a/ bge|g2 e ege|fdf/g/ agf|! g2e efe|gfg/a/ bge|dcB ABG|FDF/G/ AGF:|]"
+      },
+      {
+        "id": 27561,
+        "url": "https://thesession.org/tunes/67#setting27561",
+        "key": "Eminor",
+        "abc": "|:BGE E2e|BGE FGA|BGE E2d|AFD FGA|! BGE E2e|BGE FGA|1 d^cd ABG|FDF AFA:|2 d^cB ABG|FDF AFD||! |:EGB efg|fe^d e2F|EGB eBG|FDF AFD|! EGB efg|fdf e^ce|1 dcB ABG|FDF AFD:|2 d^cd ABG|FDF AFA||! |:g2e efe|geg bge|g2e efg|fdf agf|! g2e efe|geg bge|1 d^cd ABG|FDF AFA:|2 d^cB ABG|FDF AFD||! |:EGB eBG|BGE FGF|EGB eBG|FDF AGF|! EGB GBe|Beg egb|fed ABG|1 FDF AGF:|2 FED D3||"
+      },
+      {
+        "id": 29029,
+        "url": "https://thesession.org/tunes/67#setting29029",
+        "key": "Edorian",
+        "abc": "\"Em\"BGE FGE|BGE \"D\"FGA|\"Em\"BGE FGE|\"D\"AFD FGA|! \"Em\"BGE FGE|BGE \"D\"FGA|\"G\"d2B ABG|\"D\"FDF AFD:|! \"Em\"EGB e2g|\"Bm\"fed \"Em\"edB|EGB eBG|\"D\"FDF AFD|! \"Em\"EGB e2g|\"Bm\"fed \"Em\"edc|\"G\"~d3 cAG|\"D\"FDF AFD:|! \"Em\"g2e efe|g2a bge|~g3 \"A7\"~e3|\"D\"~f3 afd|! \"Em\"gbg e2f|geg bge|\"G\"dcd ABG|\"D\"FDF AFD:|! \"Em\"EGB eBG|BGE \"D\"FAF|\"Em\"EGB eBG|\"D\"~F3 AGF|! \"Em\"EGB GBd|Beg efg|\"A7\"~d3 A2G|\"D\"FDF AGF:|"
+      },
+      {
+        "id": 31198,
+        "url": "https://thesession.org/tunes/67#setting31198",
+        "key": "Eminor",
+        "abc": "|: BGE FEF | BGE FGA | BGE BBB | AFD FGA |! BGE FEF | BGE FGA | dcB ABG | FDF AGF :|! |: EGB efg | fed edB | EFG AAG | FDF AGF |! EGB efg | fed edB | dcB ABG | FDF AGF :|! |: g2e eBe| geg bge | g2e eBe | fdf agf |! g2e eBe | geg bge | dcB ABG | FDF AGF :|! |: EGB eBG | BGE FAF | EGB eBG | FDF AGF |! EGB GBe | Beg efg | dcB ABG | FDF AGF :|"
+      }
     ]
-}
+  }
 ]
