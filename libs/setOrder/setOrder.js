@@ -12,15 +12,6 @@ function setOrder(oldOrderedArray, oldOrderId, newOrderId) {
 
   const oldOrderObjects = [...oldOrderedArray.slice(newOrderId)];
 
-  //   const newOrderObjects = [];
-
-  //   oldOrderObjects.forEach((object) => {
-  //     if (object.orderId !== oldOrderId) {
-  //       object.orderId++;
-  //       newOrderObjects.push(object);
-  //     }
-  //   });
-
   const newOrderObjects = oldOrderObjects.reduce((newOrderObjects, object) => {
     if (object.orderId !== oldOrderId && newOrderObjects.length > 0) {
       return [...newOrderObjects, { ...object, orderId: object.orderId + 1 }];

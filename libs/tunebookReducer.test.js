@@ -3,7 +3,7 @@ import { SET_ORDER, SET_MY_SETTING } from "../constants";
 import tunebook from "../data/tunebook";
 import tunebookTestSetOrder from "../data/tunebookTestSetOrder";
 
-describe.skip("SET_ORDER", () => {
+describe("SET_ORDER", () => {
   test("SET_ORDER case correctly changes the order of tunes", () => {
     // Arrange
     const state = tunebook;
