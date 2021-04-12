@@ -1,5 +1,8 @@
-import { SET_ORDER, SET_MY_SETTING } from "../constants";
+import { tunebookReducerActionTypes } from "../constants";
 import setOrder from "./setOrder/setOrder";
+import setMySetting from "./setMySetting/setMySetting";
+
+const { SET_ORDER, SET_MY_SETTING } = tunebookReducerActionTypes;
 
 export default function tunebookReducer(state, action) {
   const { type, payload } = action;
@@ -10,7 +13,8 @@ export default function tunebookReducer(state, action) {
       return setOrder(state, oldOrderId, newOrderId);
       break;
     case SET_MY_SETTING:
-      // Change the mySetting property of the tune to the selected setting.
+      const { orderId, newSetting } = payload;
+      return setMySetting(state, orderId, newSetting);
       break;
     default:
       return state;
