@@ -16,8 +16,11 @@ const newOrderedArray = [
   { orderId: 4, name: "originally-three" },
 ];
 
+//TODO: Split tests to check index and orderId seperately.
+//TODO: Test edges cases.
+
 describe("the setOrder function", () => {
-  test("the setOrder function changes the index", () => {
+  test("the setOrder function changes the order of objects in an array", () => {
     // Arrange
     const array = oldOrderedArray;
     const oldOrderId = 4;
