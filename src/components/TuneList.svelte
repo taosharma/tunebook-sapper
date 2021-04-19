@@ -1,19 +1,3 @@
-<style>
-	section {
-		width: 12em;
-		padding: 1em;
-		height: 7.5em;
-	}
-	div {
-		height: 1.5em;
-		width: 10em;
-		text-align: center;
-		border: 1px solid black;
-		margin: 0.2em;
-		padding: 0.3em;
-	}
-</style>
-
 <script>
     import tunebook from "../../data/tunebook"
     import {dndzone} from 'svelte-dnd-action';
@@ -23,15 +7,26 @@
 		items = e.detail.items;
 	}
 
-    let items = [
-		{id:1, title: 'I'},
-		{id:2, title: 'Am'},
-		{id:3, title: 'Yoda'}
-	];;
+    let items = [...tunebook];;
 </script>
 
 <section use:dndzone={{items}} on:consider={handleSort} on:finalize={handleSort}>
-    {#each items as item(item.id)}
-    <div>{item.title}</div>
+    {#each items as item(item.orderId)}
+    <div>{item.name}</div>
     {/each}
 </section>
+
+<style>
+	section {
+		@apply container;
+		@apply w-80;
+		@apply text-red-500;
+	}
+
+	div {
+		@apply container;
+		@apply w-10;
+		@apply h-10;
+	}
+	}
+</style>

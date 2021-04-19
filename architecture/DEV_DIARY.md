@@ -30,3 +30,7 @@
 - Added json import support to rollup config file: https://github.com/rollup/plugins/tree/master/packages/json
 - Couldn't get tailwind list-decimal class to work for some reason!
 - Messing around with https://github.com/isaacHagoel/svelte-dnd-action to get drag and drop action on the list.
+
+## 19 April
+
+- Changed default drag and drop id at top level to 'orderId'
